@@ -1,0 +1,54 @@
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.csproj.AssemblyReference.cache
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.AssemblyInfoInputs.cache
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.AssemblyInfo.cs
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\appsettings.json
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.exe
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.deps.json
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.runtimeconfig.json
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.dll
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.pdb
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\scopedcss\bundle\GowanMMagic8BallEndpoint.styles.css
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.csproj.CopyComplete
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.dll
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\refint\GowanMMagic8BallEndpoint.dll
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.pdb
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.genruntimeconfig.cache
+C:\Users\petal\Desktop\GowanMMagic8BallEndpoint\obj\Debug\net6.0\ref\GowanMMagic8BallEndpoint.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\appsettings.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.exe
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.deps.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.runtimeconfig.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\GowanMMagic8BallEndpoint.pdb
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.csproj.AssemblyReference.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.AssemblyInfoInputs.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.AssemblyInfo.cs
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\scopedcss\bundle\GowanMMagic8BallEndpoint.styles.css
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.csproj.CopyComplete
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\refint\GowanMMagic8BallEndpoint.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.pdb
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\GowanMMagic8BallEndpoint.genruntimeconfig.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMMagic8BallEndpoint\obj\Debug\net6.0\ref\GowanMMagic8BallEndpoint.dll
